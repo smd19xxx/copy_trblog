@@ -1,1 +1,46 @@
+@media (max-width:770px){
+    .main-top{
+        flex-direction: column;
+        padding-top: 140px;
+    }
 
+    .main-top article{
+        width: 100%;
+    }
+
+    .main-bottom{
+        flex-direction: column;
+    }
+
+    .main-area{
+        width: 100%;
+    }
+
+    .main-area section{
+        width: 100%;
+    }
+
+    .side-area{
+        width: 100%;
+    }
+
+    .side-area section{
+        width: 100%;
+    }
+
+    .footer-top{
+        flex-direction: column;
+    }
+
+    .footer-top article{
+        width: 100%;
+    }
+
+    .footer-top p{
+        width: 100%;
+    }
+
+    .twitter-timeline{
+        width: 100% !important;
+    }
+}
